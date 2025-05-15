@@ -1,6 +1,4 @@
-===========================================
-          Installation & Running Guide
-===========================================
+### Installation & Running Guide
 
 1. Install Required Libraries
 
