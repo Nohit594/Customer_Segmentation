@@ -18,7 +18,7 @@ If Jupyter Notebook is not installed, run:
 
 Use the 'cd' command to change directory to your project folder:
 
-    cd path-to-your-project-folder
+    cd Customer_Segmentation
 
 4. Launch Jupyter Notebook
 
@@ -26,18 +26,8 @@ To open Jupyter Notebook in your default browser, run:
 
     jupyter notebook
 
-To open Jupyter Notebook specifically in Google Chrome, run:
+Now it opens up a Google Chrome tab:
 
-    jupyter notebook --browser=chrome
-
-5. Open the Notebook File
-
-In the browser window that opens, click on:
-
-    CustomerSegmentation.ipynb
-
-6. Run the Notebook
+select Customer_Segmentation_Kmeans.ipynb
 
 Run the notebook cells one by one using the 'Run' button or by pressing Shift + Enter.
-
-===========================================
