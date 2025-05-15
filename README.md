@@ -28,4 +28,4 @@ Now it opens up a Google Chrome tab:
 
 select Customer_Segmentation_Kmeans.ipynb
 
-Run the notebook cells one by one using the 'Run' button or by pressing Shift + Enter.
+You can see all the code working if not work then install all the packages correctly 😊
